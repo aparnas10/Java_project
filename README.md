@@ -359,7 +359,11 @@ The project can be further improved by adding:
 * User profile management
 
 **Aparna Singh**
+--
+
 **25BAI10270**
+--
+
 B.Tech – Computer Science & Engineering (AI & ML)
 
 
