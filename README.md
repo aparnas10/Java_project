@@ -358,20 +358,10 @@ The project can be further improved by adding:
 * Online/cloud-based examination support
 * User profile management
 
-## 👩‍💻 Author
-
 **Aparna Singh**
-
+**25BAI10270**
 B.Tech – Computer Science & Engineering (AI & ML)
 
-## 📌 Project Type
-
-**Java OOP / GUI Mini Project**
-
-> This project was developed for academic purposes to demonstrate Java programming, Object-Oriented Programming, GUI development, collections, exception handling, file handling, and multithreading.
 
 
-              |
-          Final Result
-              |
-       Save Result to File
+  
