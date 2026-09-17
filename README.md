@@ -48,20 +48,6 @@ The project is developed using **Java Swing** and demonstrates important Java pr
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Programming Language:** Java
-- **GUI:** Java Swing
-- **IDE:** IntelliJ IDEA 2026.2
-- **JDK:** JDK 17 or higher
-- **Data Structures:** ArrayList, HashMap
-- **File Handling:** FileWriter / File I/O
-- **Multithreading:** Java Thread
-- **Exception Handling:** Custom Exceptions
-- **Database:** Currently uses in-memory data and file storage
-
----
-
 ## 🧠 Java Concepts Demonstrated
 
 This project covers several concepts from the Java syllabus:
@@ -121,34 +107,8 @@ Synchronization is used while storing examination results to avoid conflicts whe
 
 Student examination results are stored using Java file handling.
 
----
-# 📝 Online Quiz & Examination System
 
-A Java-based **Online Quiz & Examination System** developed using **Java Swing**. The application provides separate interfaces for students and administrators, allowing students to take timed examinations and view their results while administrators can manage questions and view all submitted results.
-
-## 🚀 Features
-
-### 👨‍🎓 Student
-
-* Student registration and login
-* Student dashboard
-* Start online examination
-* Multiple-choice questions
-* Countdown timer
-* Automatic exam submission when time expires
-* Automatic score calculation
-* Percentage and grade calculation
-* View personal examination results
-* Logout functionality
-
-### 👨‍💼 Admin
-
-* Admin login
-* View all available questions
-* Add new questions
-* Remove questions
-* View all student results
-* Logout functionality
+--
 
 ## 🛠️ Technologies Used
 
